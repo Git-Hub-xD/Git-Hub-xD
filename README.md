@@ -17,8 +17,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[Git-Hub-xD]&theme=dark)
 
-<h1> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
-
 ## ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ
 
 [![𝖦𝗂𝗍𝗁𝗎𝖻](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/llxHKxll)
